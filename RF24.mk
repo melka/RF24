@@ -1,0 +1,2 @@
+OPT_DEFS += -DRF24_LIB
+SRC += rf24.cpp
